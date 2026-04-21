@@ -10,7 +10,7 @@ Use CSS to recreate these buttons from famous websites.  all buttons must be in 
 <style>
 
   body {
-    background-color: black;
+    background-color: Pink;
     font-family: Arial;
     color: white;
     padding: 20px;
